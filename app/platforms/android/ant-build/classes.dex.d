@@ -1,0 +1,19 @@
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes.dex : \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\atec\urlfinder\BuildConfig.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\atec\urlfinder\CordovaApp.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\atec\urlfinder\R$attr.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\atec\urlfinder\R$drawable.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\atec\urlfinder\R$string.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\atec\urlfinder\R$xml.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\atec\urlfinder\R.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$1.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$2.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$3.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$4.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$5.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$6.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$7.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$BluetoothStateReceiver.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE$GattHandler.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\classes\com\evothings\BLE.class \
+C:\Users\Dylan\Documents\GitHub\6363-Finder-App\app\platforms\android\ant-build\dexedLibs\classes-134311304dff687b3f523feef2425c6a.jar \
