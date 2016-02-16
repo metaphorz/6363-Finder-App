@@ -138,15 +138,7 @@
 			{
 				var beacon = sortedList[i];
 				var htmlBeacon =
-					'<p>'
-					+	htmlBeaconName(beacon)
-					+	htmlBeaconURL(beacon)
-					+	htmlBeaconNID(beacon)
-					+	htmlBeaconBID(beacon)
-					+	htmlBeaconVoltage(beacon)
-					+	htmlBeaconTemperature(beacon)
-					+	htmlBeaconRSSI(beacon)
-					+ '</p>';
+					"<div><a href='#' onclick='window.open("+htmlBeaconURL(beacon)+")'>" + htmlBeaconURL(beacon) + "</a></div>"
 				html += htmlBeacon
 			}
 			document.querySelector('#found-beacons').innerHTML = html;
